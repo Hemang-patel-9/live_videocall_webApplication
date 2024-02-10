@@ -4,4 +4,4 @@ This is website project for video calling application. You just need to enter th
 # Technoly Usage
 I have made this video calling webapplication in REACT-JS and NODE-JS. you can clone my repository and share the server to use it personally.
 
-# Thank YOU!
+Thank You!
